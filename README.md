@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/QueenDekim/bongocat/master/assets/preview/cat.gif" height="30px" width="30px"> I'm Isabella Arrieta</h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/xKRa4f8OO5jiw/giphy.gif" height="30px" width="30px"> I'm Isabella Arrieta</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="center">
@@ -94,6 +94,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/QueenDekim/bongocat/master/assets/preview/cat.gif" alt="Bongo cat" width="400" />
+  <img src="space-banner.gif" alt="Nebula banner" width="100%" />
 </p>
 
