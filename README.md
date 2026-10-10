@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Isabella Arrieta</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/QueenDekim/bongocat/master/assets/preview/cat.gif" height="30px" width="30px"> I'm Isabella Arrieta</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="center">
@@ -26,10 +26,7 @@
   <img height="180" src="https://streak-stats.demolab.com/?user=IsabellaArrieta&theme=rose&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="IsabellaArrieta's GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=IsabellaArrieta&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Isabella Arrieta's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280" src="https://github-readme-activity-graph.vercel.app/graph?username=IsabellaArrieta&theme=dracula&radius=10" alt="IsabellaArrieta's Activity Graph" />
+  <img src="https://trophy.ryglcloud.net/?username=IsabellaArrieta&theme=dracula&no-frame=true&margin-w=4" alt="Isabella Arrieta's GitHub Trophies" />
 </p>
 
 
@@ -94,5 +91,9 @@
   <a href="https://www.linkedin.com/in/isabella-arrieta-guardo"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Isabella Arrieta's LinkedIn"/></a>&nbsp;&nbsp;
   <a href="mailto:isabellaarrietag@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Isabella Arrieta's Email"/></a>&nbsp;&nbsp;
   <a href="https://isabellaarrieta-portfolio.vercel.app/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QueenDekim/bongocat/master/assets/preview/cat.gif" alt="Bongo cat" width="400" />
 </p>
 
